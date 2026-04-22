@@ -1,3 +1,8 @@
+# This sample of data represents a Poisson distribution with expectation value 15
+# The data columns represent:
+# Column 1: uncalibrated energy [channels]
+# Column 2: probability density
+# Column 3: standard deviation of the probability density value
 0,3.059023205018258e-07,4.588534807527387e-08
 1,4.588534807527389e-06,6.882802211291083e-07
 2,3.4414011056455366e-05,5.162101658468305e-06

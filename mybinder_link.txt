@@ -1,0 +1,1 @@
+https://mybinder.org/v2/gh/GabrieleP3004/unipv_python-seminar-2026/HEAD?urlpath=%2Fdoc%2Ftree%2FBasics-Data-Analysis_python_seminar.ipynb

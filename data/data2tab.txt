@@ -1,3 +1,7 @@
+# This sample of data represents the measurement of a quantity that distributes as a Gaussian
+# The data columns represent:
+# Column 1: uncalibrated energy [channels]
+# Column 2: number of counts
 0	0.0
 1	0.0
 2	0.0
